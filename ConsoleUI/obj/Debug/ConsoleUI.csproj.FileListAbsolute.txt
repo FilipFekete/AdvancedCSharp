@@ -1,0 +1,10 @@
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

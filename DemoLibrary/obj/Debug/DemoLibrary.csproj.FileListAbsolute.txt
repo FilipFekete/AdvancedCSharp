@@ -1,0 +1,6 @@
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\c#\AdvancedCSharp\DemoLibrary\obj\Debug\DemoLibrary.pdb
