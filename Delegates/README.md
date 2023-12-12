@@ -1,2 +1,2 @@
-# AdvancedCSharp
-Showcase of using advanced concepts
+# AdvancedCSharp/Delegates
+Creating interchangeable discount system using delegates 
