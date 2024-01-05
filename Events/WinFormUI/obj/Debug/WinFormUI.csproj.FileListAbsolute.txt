@@ -1,0 +1,14 @@
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\Events\WinFormUI\obj\Debug\WinFormUI.pdb
