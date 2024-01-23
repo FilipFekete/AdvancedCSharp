@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+ZRr9l8OnhGiyVcfdBXisT54QNjIL3Tkzp9ge3M1ctG/YmoT7PWixOJxeN01t4H1o/vBZ3HM7fAgz4ksSok2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fifof\\OneDrive\\Počítač\\CSharpGitHub\\AdvancedCSharp\\DesignPatterns\\DRY\\DRYDemo\\DRYDemoStandardLibrary\\DRYDemoStandardLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fifof\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fifof\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

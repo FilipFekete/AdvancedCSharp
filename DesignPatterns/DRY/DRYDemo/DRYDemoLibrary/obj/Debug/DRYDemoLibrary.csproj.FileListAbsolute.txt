@@ -1,0 +1,6 @@
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoLibrary\bin\Debug\DRYDemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoLibrary\bin\Debug\DRYDemoLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoLibrary\obj\Debug\DRYDemoLibrary.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoLibrary\obj\Debug\DRYDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoLibrary\obj\Debug\DRYDemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoLibrary\obj\Debug\DRYDemoLibrary.pdb

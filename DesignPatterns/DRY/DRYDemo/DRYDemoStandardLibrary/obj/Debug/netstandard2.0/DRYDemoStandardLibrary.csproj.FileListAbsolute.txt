@@ -1,0 +1,10 @@
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\bin\Debug\netstandard2.0\DRYDemoStandardLibrary.deps.json
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\bin\Debug\netstandard2.0\DRYDemoStandardLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\bin\Debug\netstandard2.0\DRYDemoStandardLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.AssemblyInfo.cs
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\DRYDemoStandardLibrary\obj\Debug\netstandard2.0\DRYDemoStandardLibrary.pdb

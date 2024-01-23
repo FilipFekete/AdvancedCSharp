@@ -1,0 +1,13 @@
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\bin\Debug\DRYDemoLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\bin\Debug\DRYDemoLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\DRY\DRYDemo\WinFormUI\obj\Debug\WinFormUI.pdb
