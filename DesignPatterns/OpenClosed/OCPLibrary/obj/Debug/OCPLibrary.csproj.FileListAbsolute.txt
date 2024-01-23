@@ -1,0 +1,6 @@
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\OpenClosed\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\OpenClosed\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\OpenClosed\OCPLibrary\obj\Debug\OCPLibrary.csproj.AssemblyReference.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\OpenClosed\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\OpenClosed\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Users\fifof\OneDrive\Počítač\CSharpGitHub\AdvancedCSharp\DesignPatterns\OpenClosed\OCPLibrary\obj\Debug\OCPLibrary.pdb
