@@ -64,7 +64,7 @@ namespace WinFormUI
             }
             else
             {
-               errorMessage.Text = $"The overdraft protection stopped, your transfer. Insufficient balance!";
+               errorMessage.Text = $"The overdraft protection stopped your transfer. Insufficient balance!";
             }
 
             errorMessage.Visible = true;

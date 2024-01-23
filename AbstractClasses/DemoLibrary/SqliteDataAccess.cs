@@ -8,8 +8,11 @@ namespace DemoLibrary
 {
     public class SqliteDataAccess : DataAccess
     {
+        // Because the method is marked as virtual in DataAccess, we are able to override it and implement new body
         public override string LoadConnectionString(string name)
-        {
+        {   
+            
+
             string output = base.LoadConnectionString(name);
 
             output += " (from SQLite)";

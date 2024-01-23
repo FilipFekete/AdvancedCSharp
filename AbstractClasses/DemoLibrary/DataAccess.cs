@@ -11,7 +11,8 @@ namespace DemoLibrary
         // Marking DataAccess as abstract prohibits any instantiation 
         // Cannot create instance but can access anyclass that inherits from DataAccess
         public virtual string LoadConnectionString(string name)
-        {
+        {   
+            // Keyword virtual allows to use the base version as well as overriding it
             Console.WriteLine("Load Connection String");
             return "testConnectionString";
         }
