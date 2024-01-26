@@ -1,1 +1,1 @@
-O in SOLID design principles for better code composition
+# I in SOLID design principles for better code composition
